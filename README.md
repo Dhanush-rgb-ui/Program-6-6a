@@ -1,4 +1,4 @@
-# Module-6 Day-6 SEB
+# Module-6 Day-1 SEB
 ## AIM:
 To write a c program to read and display an array of any 3 integer elements using pointer.
 
